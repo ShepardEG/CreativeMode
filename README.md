@@ -17,7 +17,7 @@ Creative Mode (edited by Sarah and Cynthia)
 ## How to install 
 - Copy directory `UDKGame` into RenegadeX root folder, agree with replacement files. 
 - Copy builded Rx_CreativeMode.u in `UDKGame/CookedPC`
-- Run local server or skirmish map with loading mutator. Example: `open CNC-Field?mutator=MyPackage.MyMutator`
+- Run local server or skirmish map with loading mutator. Example: `open CNC-Field?mutator=Rx_CreativeMode.Rx_CreativeMode`
 
 [Original repo show on the link](http://https://github.com/sevans045/CreativeMode/ "Original repo show on the link")
 
